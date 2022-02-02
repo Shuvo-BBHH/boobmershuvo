@@ -21,4 +21,5 @@
 
 # cd boobmershuvo
 
-# pythone2 
+# pythone2 shuvosms.py
+
